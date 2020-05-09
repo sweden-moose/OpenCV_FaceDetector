@@ -9,3 +9,4 @@
 
  cropvid.py - another version of sample_maker.py, without GUI
 
+Thanks to Marcelo Rovai (mjrobot.org)
